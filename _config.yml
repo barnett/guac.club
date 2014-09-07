@@ -1,0 +1,10 @@
+# Site settings
+title: Guac.Club
+email: bk@thecodery.co
+description:
+baseurl: 
+url: "http://guac.club"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
